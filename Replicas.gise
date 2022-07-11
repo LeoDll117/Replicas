@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Replicas.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FLOP.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FLOP.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FLOP.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="FLOP2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="FLOP2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="FLOP2.xst"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cont.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="cont.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="cont.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cont2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="cont2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="cont2.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contador.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contador.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contador5.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contador5.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contador5.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contadorr.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contadorr.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contadorr.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contadorrr.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contadorrr.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contadorrr.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="contadorrrr.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="contadorrrr.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="contadorrrr.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="diag.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="diag.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="diag.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="diagrama.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="diagrama.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="diagrama.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ejemplogen.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ejemplogen.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ejemplogen.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ffd.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ffd.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ffd.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ffsr.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ffsr.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ffsr.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="latch.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="latch.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="latch.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="latch.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="latch.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="latch.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="latch.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="latch.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="latch2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="latch2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="latch2.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="latch_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="latch_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="reg.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="reg.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="reg.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="reg4.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="reg4.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="reg4.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="registro.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="registro.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="registro.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="registro2.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="registro2.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="registro2.xst"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="5500664549778994804" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="1157284887083428117" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3705965440424074808" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="5702940744460053484" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657399970" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="1552048485092319" xil_pn:start_ts="1657399970">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1657418001" xil_pn:in_ck="8109438208910614934" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="2062604825751400863" xil_pn:start_ts="1657417957">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="latch.lso"/>
+      <outfile xil_pn:name="latch.ngc"/>
+      <outfile xil_pn:name="latch.ngr"/>
+      <outfile xil_pn:name="latch.prj"/>
+      <outfile xil_pn:name="latch.stx"/>
+      <outfile xil_pn:name="latch.syr"/>
+      <outfile xil_pn:name="latch.xst"/>
+      <outfile xil_pn:name="latch2.prj"/>
+      <outfile xil_pn:name="latch_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>
